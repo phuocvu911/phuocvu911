@@ -12,7 +12,7 @@ I like the part of software that starts after the code compiles. Getting it buil
 
 ## AI work
 
-- **Winner, AI for Good Hackathon ([Norrin Challenge](https://fiveguys-1.lovable.app).** We built an agentic AI system that classifies systems under the EU AI Act.
+- **Winner AI for Good Hackathon ([Norrin Challenge](https://fiveguys-1.lovable.app)).** We built an agentic AI system that classifies systems under the EU AI Act.
 - **Junction Quantum Hackathon, QMill challenge.** I worked on an obfuscated quantum circuit problem. Never heard of quantum before, but I can steer AI agent to find the solution. 
 
 ## Stack
