@@ -12,7 +12,7 @@ I like the part of software that starts after the code compiles. Getting it buil
 
 ## AI work
 
-- **Winner, AI for Good Hackathon (Norrin Challenge).** We built an agentic AI system that classifies systems under the EU AI Act.
+- **Winner, AI for Good Hackathon ([Norrin Challenge](https://fiveguys-1.lovable.app).** We built an agentic AI system that classifies systems under the EU AI Act.
 - **Junction Quantum Hackathon, QMill challenge.** I worked on an obfuscated quantum circuit problem. Never heard of quantum before, but I can steer AI agent to find the solution. 
 
 ## Stack
@@ -42,11 +42,11 @@ The DevOps side is where I have the most to learn, and I'm building toward it on
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| ![HSK tracking](https://github.com/phuocvu911/marina-bay) | BLE asset tracking for a Helsinki sailing marina. Gateways report beacon signals over HTTP POST, and the backend picks the zone with the loudest gateway, using EMA smoothing and hysteresis so assets don't flicker between zones. | Go, Minew G1-E gateways, Minew i3 beacons |
-| Movies API | REST API for a movies, actors and genres catalog with custom error types, request validation, rate limiting and graceful shutdown. | Go, SQLite (WAL, foreign keys), Postman |
-| Cars website | Server-rendered cars website with a filterable gallery, side-by-side comparison and recommendations. Data is fetched concurrently and held in an `RWMutex`-protected store. | Go , `html/template`, Makefile |
-| Literary Lions forum | Web forum with cookie sessions, password hashing, categories, likes and filtering, shipped as a Docker container. | Go, SQLite, Docker |
-| PathFinder| Train routing on a graph. Vertex-disjoint paths, min-cost flow and time-expanded max-flow models. | Go |
+| [HSK tracking](https://github.com/phuocvu911/marina-bay) | BLE asset tracking for a Helsinki sailing marina. Gateways report beacon signals over HTTP POST, and the backend picks the zone with the loudest gateway, using EMA smoothing and hysteresis so assets don't flicker between zones. | Go, Minew G1-E gateways, Minew i3 beacons |
+| [Movies API](https://github.com/phuocvu911/movies-api) | REST API for a movies, actors and genres catalog with custom error types, request validation, rate limiting and graceful shutdown. | Go, SQLite (WAL, foreign keys), Postman |
+| [Cars](https://github.com/phuocvu911/cars-viewer) | Server-rendered cars website with a filterable gallery, side-by-side comparison and recommendations. Data is fetched concurrently and held in an `RWMutex`-protected store. | Go , `html/template`, Makefile |
+| [Literary Lions forum](https://github.com/phuocvu911/literary-lions) | Web forum with cookie sessions, password hashing, categories, likes and filtering, shipped as a Docker container. | Go, SQLite, Docker |
+| [PathFinder](https://github.com/phuocvu911/stations) | Train routing on a graph. Vertex-disjoint paths, min-cost flow and time-expanded max-flow models. | Go |
 
 
 ## Elsewhere
