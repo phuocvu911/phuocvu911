@@ -42,7 +42,7 @@ The DevOps side is where I have the most to learn, and I'm building toward it on
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| HSK tracking | BLE asset tracking for a Helsinki sailing marina. Gateways report beacon signals over HTTP POST, and the backend picks the zone with the loudest gateway, using EMA smoothing and hysteresis so assets don't flicker between zones. | Go, Minew G1-E gateways, Minew i3 beacons |
+| ![HSK tracking](https://github.com/phuocvu911/marina-bay) | BLE asset tracking for a Helsinki sailing marina. Gateways report beacon signals over HTTP POST, and the backend picks the zone with the loudest gateway, using EMA smoothing and hysteresis so assets don't flicker between zones. | Go, Minew G1-E gateways, Minew i3 beacons |
 | Movies API | REST API for a movies, actors and genres catalog with custom error types, request validation, rate limiting and graceful shutdown. | Go, SQLite (WAL, foreign keys), Postman |
 | Cars website | Server-rendered cars website with a filterable gallery, side-by-side comparison and recommendations. Data is fetched concurrently and held in an `RWMutex`-protected store. | Go , `html/template`, Makefile |
 | Literary Lions forum | Web forum with cookie sessions, password hashing, categories, likes and filtering, shipped as a Docker container. | Go, SQLite, Docker |
