@@ -32,11 +32,13 @@ The DevOps side is where I have the most to learn, and I'm building toward it on
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 - CI/CD with GitHub Actions for my projects, automating build, test and deployment.
 - Kubernetes and Terraform, starting with deploying one of my own services
 - Observability for Go services, meaning logs, metrics and traces
 - LLM tooling in pipelines, such as automated review and incident summaries
+- Manage infra, machine, network using Azure
 
 ## Projects
 
