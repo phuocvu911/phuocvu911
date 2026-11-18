@@ -4,13 +4,7 @@ Software development student at [Hive Helsinki](https://www.hive.fi/) in Finland
 
 I like the part of software that starts after the code compiles. Getting it built the same way every time, running in a container, and not falling over at 3am. I also like building systems where an AI model does a real job instead of sitting in a demo.
 
-## What I'm looking for
-
-- **DevOps, platform or infrastructure roles** where I can grow into owning pipelines and deployments
-- **AI engineering roles**, especially agentic systems and anything that connects a model to real tooling
-- A team that reviews code and explains the "why" behind decisions
-
-## AI work
+## My proudest work
 
 - **Winner AI for Good Hackathon ([Norrin Challenge](https://fiveguys-1.lovable.app)).** We built an agentic AI system that classifies systems under the EU AI Act.
 - **Junction Quantum Hackathon, QMill challenge.** I worked on an obfuscated quantum circuit problem. Never heard of quantum before, but I can steer AI agent to find the solution. 
